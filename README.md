@@ -1,13 +1,12 @@
-## CS150 Assignment 1
+## Intro to C++ I -  Assign 01
 
-A Grade School Fraction Calculator
+Fraction Calculator
 
-**Date assigned:** Friday, September 10, 2021
+**Date assigned:**
 
-**Program due:** Friday, September 17, 2021, \[9:15AM Sect 02; 1:00PM
-Sect 01\]
+**Program due:**
 
-**Points:** 25
+**Points:**
 
 **This is an individual assignment.**
 
