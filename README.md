@@ -1,6 +1,6 @@
-## Intro to C++ I -  Assign 01
+## Intro to C++ I
 
-Fraction Calculator
+**Assign 01 - Fraction Calculator**
 
 **Date assigned:**
 
