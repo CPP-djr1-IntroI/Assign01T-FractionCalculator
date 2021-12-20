@@ -75,15 +75,4 @@ Press any key to close this window . . .
         you typed everything correctly. Be aware that C++ is
         case-sensitive.
 
-2.  **An electronic copy of your program is to be placed on turing**
-
-    a.  See Lab01 for producing a pdf of your complete program. Once you
-        have produced the pdf of your program and named the pdf your
-        **punetid**, drop the pdf in the Assign01 folder on Moodle.
-
-    b.  The pdf must be in the drop folder on Moodle by the time and day
-        specified above. Anything submitted after that will be
-        considered late.
-
-> **Good luck! And remember, if you have any problems, come and see
-> straight away. **
+2.  **An electronic copy of your program (punetidFractionCalculator.pdf) is to be emailed to ryandj@pacificu.edu**
