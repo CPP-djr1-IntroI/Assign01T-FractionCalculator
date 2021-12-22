@@ -75,4 +75,4 @@ Press any key to close this window . . .
         you typed everything correctly. Be aware that C++ is
         case-sensitive.
 
-2.  **An electronic copy of your program (punetidFractionCalculator.pdf) is to be emailed to ryandj@pacificu.edu**
+2.  **An electronic copy of your program (punetidAssign01FractionCalculator.pdf) is to be emailed to ryandj@pacificu.edu**
