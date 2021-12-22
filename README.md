@@ -59,7 +59,7 @@ Press any key to close this window . . .
 
 1.  **An electronic Solution of your program on GitHub**
 
-    a.  You are to click on the Assign01 Link on Moodle to accept this
+    a.  You are to click on the Assign01 Link to accept this
         assignment as we've done in lab. Once accepted, code up a
         complete solution to the above assignment specification. Your
         complete solution is to be pushed to GitHub no later than the
